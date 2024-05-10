@@ -24,5 +24,5 @@ Examination Schedule Optimization is a Java application designed to optimize the
 ## Contributing
 Contributions to Examination Schedule Optimization are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-
-
+## Requirement
+- Add Excel sheets needed to optimize.
