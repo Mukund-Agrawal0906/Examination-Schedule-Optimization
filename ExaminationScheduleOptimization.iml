@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/poi-src-5.2.5-20231118/osgi/src/main/java" />
+          <root url="file://$MODULE_DIR$/poi-src-5.2.5-20231118/osgi/src/test/java" />
+          <root url="file://$MODULE_DIR$/poi-src-5.2.5-20231118/poi-examples/src/main/java" />
+          <root url="file://$MODULE_DIR$/poi-src-5.2.5-20231118/poi-examples/src/main/ruby/java" />
+          <root url="file://$MODULE_DIR$/poi-src-5.2.5-20231118/poi-examples/src/test/java" />
+          <root url="file://$MODULE_DIR$/poi-src-5.2.5-20231118/poi-excelant/src/main/java" />
+          <root url="file://$MODULE_DIR$/poi-src-5.2.5-20231118/poi-excelant/src/poi-ant-contrib/java" />
+          <root url="file://$MODULE_DIR$/poi-src-5.2.5-20231118/poi-excelant/src/test/java" />
+          <root url="file://$MODULE_DIR$/poi-src-5.2.5-20231118/poi-integration/src/test/java" />
+          <root url="file://$MODULE_DIR$/poi-src-5.2.5-20231118/poi-ooxml-lite-agent/src/main/java" />
+          <root url="file://$MODULE_DIR$/poi-src-5.2.5-20231118/poi-ooxml/src/main/java" />
+          <root url="file://$MODULE_DIR$/poi-src-5.2.5-20231118/poi-ooxml/src/test/java" />
+          <root url="file://$MODULE_DIR$/poi-src-5.2.5-20231118/poi-scratchpad/src/main/java" />
+          <root url="file://$MODULE_DIR$/poi-src-5.2.5-20231118/poi-scratchpad/src/test/java" />
+          <root url="file://$MODULE_DIR$/poi-src-5.2.5-20231118/poi/src/main/java" />
+          <root url="file://$MODULE_DIR$/poi-src-5.2.5-20231118/poi/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
